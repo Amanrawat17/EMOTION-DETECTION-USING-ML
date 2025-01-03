@@ -1,4 +1,4 @@
-# EMOTION-DETECTION-USING-ML
+# EMOTION-DETECTION-USING-OPEN CV
 # Emotion Recognition and Song Recommendation
 
 This project is a real-time emotion recognition system that recommends songs based on the user's mood. It leverages MediaPipe for emotion detection and a machine learning model for song recommendations, integrated into a web application using Streamlit.
